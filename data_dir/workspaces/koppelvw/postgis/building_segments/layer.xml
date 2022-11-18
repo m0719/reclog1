@@ -1,0 +1,15 @@
+<layer>
+  <name>building_segments</name>
+  <id>LayerInfoImpl-3e5f482a:18148d8289e:-7ff7</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-4bf171d6:1811a124a88:-7fff</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-3e5f482a:18148d8289e:-7ff8</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>

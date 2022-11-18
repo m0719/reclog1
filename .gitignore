@@ -1,0 +1,10 @@
+.idea/*
+docker*.sh
+tomcat/*
+data_dir/vars.env
+data_dir/gwc/
+data_dir/logs/
+data_dir/security/
+data_dir/styles/
+data_dir/gwc-gs.xml
+data_dir/.updatepassword.lock

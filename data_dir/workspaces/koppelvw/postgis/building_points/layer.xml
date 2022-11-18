@@ -1,0 +1,15 @@
+<layer>
+  <name>building_points</name>
+  <id>LayerInfoImpl-3e5f482a:18148d8289e:-7ffb</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-4bf171d6:1811a124a88:-8000</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-3e5f482a:18148d8289e:-7ffc</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>

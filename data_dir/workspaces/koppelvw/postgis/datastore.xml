@@ -1,0 +1,24 @@
+<dataStore>
+  <id>DataStoreInfoImpl-5956ff07:16ecc0d936b:-7ff5</id>
+  <name>postgis</name>
+  <type>PostGIS (JNDI)</type>
+  <enabled>true</enabled>
+  <workspace>
+    <id>WorkspaceInfoImpl-5956ff07:16ecc0d936b:-7ff7</id>
+  </workspace>
+  <connectionParameters>
+    <entry key="schema">public</entry>
+    <entry key="Estimated extends">true</entry>
+    <entry key="fetch size">1000</entry>
+    <entry key="encode functions">false</entry>
+    <entry key="Expose primary keys">true</entry>
+    <entry key="Support on the fly geometry simplification">true</entry>
+    <entry key="Batch insert size">1</entry>
+    <entry key="preparedStatements">false</entry>
+    <entry key="jndiReferenceName">java:comp/env/jdbc/local-postgresql</entry>
+    <entry key="dbtype">postgis</entry>
+    <entry key="namespace">http://localhost/koppelvw</entry>
+    <entry key="Loose bbox">true</entry>
+  </connectionParameters>
+  <__default>false</__default>
+</dataStore>

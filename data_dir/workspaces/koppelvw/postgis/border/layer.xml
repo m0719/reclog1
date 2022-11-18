@@ -1,0 +1,15 @@
+<layer>
+  <name>border_points</name>
+  <id>LayerInfoImpl-5956ff07:16ecc0d936b:-7ff7</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-5956ff07:16ecc0d936b:-7fff</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-664a63d3:17a14d1b4c5:-7ff5</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>
